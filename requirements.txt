@@ -1,4 +1,4 @@
-langchain 
+langchain==0.1.16
 langchain_groq 
 langchain_core
 langchain_experimental
