@@ -1,0 +1,161 @@
+# ==============================
+# CDC GUIDELINES
+# ==============================
+
+Fever is a temporary increase in body temperature, often due to infection. Common causes include viral infections such as influenza and COVID-19.
+
+COVID-19 symptoms include:
+- Fever
+- Dry cough
+- Fatigue
+- Loss of taste or smell
+- Sore throat
+- Difficulty breathing
+
+Severe symptoms include:
+- Persistent chest pain
+- Trouble breathing
+- Bluish lips or face
+
+CDC recommends:
+- Isolation if symptoms appear
+- Wearing masks in crowded areas
+- Frequent handwashing
+- Vaccination for prevention
+
+Respiratory infections affect lungs and airways. Symptoms include cough, shortness of breath, chest discomfort, and fatigue.
+
+Patients should seek immediate medical care if experiencing breathing difficulty or chest pain.
+
+
+# ==============================
+# WHO SYMPTOM DATA
+# ==============================
+
+Common symptoms:
+- Fever
+- Dry cough
+- Tiredness
+
+Less common symptoms:
+- Headache
+- Sore throat
+- Diarrhea
+- Conjunctivitis
+- Skin rash
+
+Serious symptoms:
+- Difficulty breathing
+- Chest pain or pressure
+- Loss of speech or movement
+
+WHO recommends:
+- Early symptom monitoring
+- Seeking medical care for severe symptoms
+- Avoiding self-medication without consultation
+
+Preventive measures:
+- Hand hygiene
+- Physical distancing
+- Mask usage
+
+
+# ==============================
+# RESPIRATORY CONDITIONS
+# ==============================
+
+Asthma is a chronic disease involving airway inflammation. Symptoms include wheezing, breathlessness, chest tightness, and coughing.
+
+Bronchitis is inflammation of bronchial tubes, often causing mucus-producing cough and fatigue.
+
+Pneumonia is a lung infection that may cause fever, chills, cough, and difficulty breathing.
+
+Upper respiratory infections include cold and flu, typically presenting with sneezing, sore throat, and congestion.
+
+
+# ==============================
+# CARDIOVASCULAR CONDITIONS
+# ==============================
+
+Heart-related symptoms:
+- Chest pain
+- Shortness of breath
+- Dizziness
+- Fatigue
+
+Hypertension (high blood pressure) often has no symptoms but increases risk of heart disease and stroke.
+
+Emergency warning signs:
+- Chest pain spreading to arm/jaw
+- Sweating
+- Nausea
+- Sudden dizziness
+
+
+# ==============================
+# METABOLIC & CHRONIC DISEASES
+# ==============================
+
+Diabetes symptoms:
+- Increased thirst
+- Frequent urination
+- Fatigue
+- Blurred vision
+
+Chronic conditions require:
+- Regular monitoring
+- Medication adherence
+- Lifestyle changes
+
+
+# ==============================
+# MENTAL HEALTH (PUBMED STYLE)
+# ==============================
+
+Depression:
+Characterized by persistent sadness, lack of interest, fatigue, and sleep disturbances.
+
+Anxiety disorders:
+Include excessive worry, restlessness, increased heart rate, and difficulty concentrating.
+
+Early intervention and therapy improve outcomes.
+
+
+# ==============================
+# PUBMED-STYLE CLINICAL SUMMARIES
+# ==============================
+
+Study: COVID-19 Clinical Characteristics
+Summary:
+Patients commonly present with fever, cough, and fatigue. Severe cases may develop acute respiratory distress syndrome.
+
+Study: Hypertension Management
+Summary:
+Hypertension is a leading risk factor for cardiovascular disease. Lifestyle changes and medication adherence are essential.
+
+Study: Type 2 Diabetes Mellitus
+Summary:
+Characterized by insulin resistance and elevated blood glucose levels. Management includes diet, exercise, and medication.
+
+Study: Respiratory Illness Trends
+Summary:
+Respiratory infections are among the most common causes of outpatient visits worldwide.
+
+
+# ==============================
+# GENERAL MEDICAL INTAKE GUIDELINES
+# ==============================
+
+During patient intake, collect:
+
+- Primary symptoms
+- Duration of symptoms
+- Severity (mild / moderate / severe)
+- Past medical history
+- Current medications
+- Allergies
+- Lifestyle factors (smoking, alcohol)
+
+Important:
+This dataset is for informational purposes only and does NOT provide medical diagnosis or treatment advice.
+Always consult a licensed healthcare professional.
