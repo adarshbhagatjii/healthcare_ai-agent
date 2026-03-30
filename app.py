@@ -71,12 +71,11 @@ Response:
 """
 )
 
-
 # ---------------- LLM ----------------
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
     temperature=0,
-    groq_api_key=os.getenv("GROQ_API_KEY")
+    groq_api_key=st.secrets["GROQ_API_KEY"]
 )
 
 qa_chain = RetrievalQA.from_chain_type(
