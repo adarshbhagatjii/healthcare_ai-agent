@@ -7,11 +7,7 @@ from langchain_community.document_loaders import TextLoader
 from langchain.chains.retrieval_qa.base import RetrievalQA
 from langchain_core.prompts import PromptTemplate
 import os
-from dotenv import load_dotenv
 
-
-# ENV ----------------
-load_dotenv()
 
 st.set_page_config(page_title="Healthcare Intake Agent", layout="wide")
 
